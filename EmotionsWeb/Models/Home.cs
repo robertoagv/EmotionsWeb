@@ -9,6 +9,6 @@ namespace EmotionsWeb.Models
     {
         public int Id { get; set; }
         public string WelcomeMessage { get; set; }
-        public string FooterMessage { get; set; } = "Footer desde la clase Home...";
+        public string FooterMessage { get; set; } = "Footer desde la clase Home...1ra Modificacion";
     }
 }
